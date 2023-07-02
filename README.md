@@ -1,6 +1,6 @@
 
 <h1> Hello! I'm Jonathan Guidi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
-<h2>Frontend Developer 🎨</h2>
+<h2>Frontend Developer 💻🎨</h2>
 
 ### 🚀 About Me
 - I am 22 years old and I am from Buenos Aires, Argentina.
@@ -8,7 +8,7 @@
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
 - I enjoy working with the frontend because I want to provide the best visual experience for the users who visit my projects.
 
-### Technologies
+### 🧠 Technologies
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -21,9 +21,10 @@
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
-### Contact Me
-  <a href="https://santiagopacini.vercel.app" target="_blank">
+### 🤝 Contact Me
+  <a href="" target="_blank">
 <img src=https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-<a href="https://www.linkedin.com/in/maurovera/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mauro%20Vera-blue?style=flat-square&logo=linkedin"></a>
-<a href="maurovera069@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Maurovera069@gmail.com-blue?style=flat-square&logo=gmail"></a>  
+<a href="https://www.linkedin.com/in/jonathan-guidi-329365217/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
