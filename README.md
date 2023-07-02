@@ -4,10 +4,10 @@
 
 ### 🚀 About Me
 - I am 22 years old and I am from Buenos Aires, Argentina.
-- I am a FullStack Developer with MERN stack.
+- I am a FullStack Developer with MERN stack, Never Stop Learning 📚
 - I create solutions with software using agile methodologies in my development
 - I enjoy working with the frontend because I want to provide the best experience for the users who visit my apps.
-- Never Stop Learning.
+- Talk me to: **FullStack Development, Web3, StartUps, UX/UI, Product Design, Personal Growth, AI, Innovation.**
 
 ### 🧠 Technologies
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -32,7 +32,6 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
-
 
 
 ### 🤝 Contact Me
