@@ -4,8 +4,8 @@
 
 ### 🚀 About Me
 - I am 22 years old and I am from **Buenos Aires, Argentina**.
-- I am a **FullStack Developer** with **MERN** stack, **Never Stop Learning 📚**
-- I create **solutions with software** using agile methodologies in my development
+- I am a **FullStack Developer** with **MERN** stack, **I never stop learning 📚**
+- I create **solutions with software** using agile methodologies in my development.
 - I enjoy working with the frontend because **I want to provide the best experience for the users who visit my apps**.
 - Talk me to: **FullStack Development, Web3, StartUps, UX/UI, Product Design, Personal Growth, AI, Innovation.**
 
