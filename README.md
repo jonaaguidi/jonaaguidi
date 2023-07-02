@@ -31,6 +31,9 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
+  ![Scrum](https://img.shields.io/badge/-Scrum-333333?style=flat&logo=scrum)
+  ![Kanban](https://img.shields.io/badge/-Kanban-333333?style=flat&logo=kanban)
+
 
 ### 🤝 Contact Me
   <a href="" target="_blank">
