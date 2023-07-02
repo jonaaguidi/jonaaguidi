@@ -41,3 +41,6 @@
 <a href="https://www.linkedin.com/in/jonathan-guidi-329365217/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
+<a href="https://twitter.com/jonaaguidi" target="_blank">
+  <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin-bottom: 5px;" />
+</a>
