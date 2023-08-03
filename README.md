@@ -33,7 +33,7 @@
 
 
 ### 🤝 Contact Me
-  <a href="" target="_blank">
+  <a href="https://jguidi.vercel.app/" target="_blank">
 <img src=https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 <a href="https://www.linkedin.com/in/jonathan-guidi-329365217/" target="_blank">
