@@ -1,9 +1,9 @@
 
 <h1> Hello! I'm Jonathan Guidi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
-<h2>Frontend Developer 💻🎨</h2>
+<h2>Product Manager & FullStack Developer 💻</h2>
 
 ### 🚀 About Me
-- I am 23 years old and I am from **Buenos Aires, Argentina**.
+- I am 24 years old and I am from **Buenos Aires, Argentina**.
 - I am a **FullStack Developer** and **Product Manager**, **I never stop learning 📚**
 - I create **solutions with software** using agile methodologies in my development.
 - I enjoy working with the frontend because **I want to provide the best experience for the users who visit my apps**.
